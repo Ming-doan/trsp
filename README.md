@@ -8,6 +8,14 @@
 
 ⚠️ **TO USE THIS LIBRARY, UNDERSTAND TRITON INFERENCE SERVER FIRST. [TRITON INFERENCE SERVER TUTORIAL HERE](https://github.com/triton-inference-server/tutorials).**
 
+## 👋 Installation
+
+Install `trsp` package in Python.
+
+```bash
+pip install trsp
+```
+
 ## ⚡ Quick command
 
 - Build model repository with config file.
