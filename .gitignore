@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+env/
+__pycache__/
+
+# PyInstaller
+dist/
+build/
+*.spec
+*.egg-info/
+
+# Exception
+!libs/trsp/build/
+!.gitkeep
