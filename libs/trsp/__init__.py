@@ -28,7 +28,7 @@ SOFTWARE.
 '''
 
 # Show the version of the package
-__version__ = "0.0.1"
+__version__ = "0.0.4"
 
 # Print if the package is loaded by code
 __instruction = '''Triton Server Support for building model repository.
