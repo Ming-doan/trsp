@@ -28,8 +28,8 @@ setup(
     python_requires=">=3.9",
     entry_points={
         "console_scripts": [
-            "trsp-build = trsp.build:build",
-            "trsp-run = trsp.run:run",
+            "trsp-build = trsp.build:main",
+            "trsp-run = trsp.run:main",
         ]
     },
 )
